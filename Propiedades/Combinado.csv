@@ -1,0 +1,4441 @@
+Category,area,bounding_box,centroid,convex_area,convex_image,coordinates,eccentricity,equivalent_diameter,euler_number,extent,filled_area,filled_image,major_axis_length,minor_axis_length,orientation,perimeter,solidity,circularity,convexity,intensity
+Circles,1649.0,"(11, 43, 56, 88)","(33.0, 65.0)",1673.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[11 59]
+ [11 60]
+ [11 61]
+ ...
+ [55 69]
+ [55 70]
+ [55 71]]",0.0,45.82108694987804,1,0.814320987654321,1649.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",45.82096622756765,45.82096622756765,0.7853981633974483,147.88225099390854,0.9856545128511656,0.9475418805475421,1.0145542753183747,
+Circles,3613.0,"(241, 1293, 308, 1360)","(274.0, 1326.0)",3669.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 241 1318]
+ [ 241 1319]
+ [ 241 1320]
+ ...
+ [ 307 1332]
+ [ 307 1333]
+ [ 307 1334]]",0.0,67.82488094444503,1,0.8048563154377367,3613.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",67.82618902808578,67.82618902808578,0.7853981633974483,221.82337649086284,0.9847369855546471,0.9227056975724731,1.0154995848325492,
+Circles,5013.0,"(316, 1604, 395, 1683)","(355.0, 1643.0)",5077.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 316 1635]
+ [ 316 1636]
+ [ 316 1637]
+ ...
+ [ 394 1649]
+ [ 394 1650]
+ [ 394 1651]]",0.0,79.89211373945098,1,0.8032366607915398,5013.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",79.8924471518368,79.8924471518368,0.7853981633974483,260.45079348883235,0.9873941303919638,0.9286588435706352,1.0127668063036106,
+Circles,2617.0,"(453, 1046, 510, 1103)","(481.0, 1074.0)",2649.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 453 1067]
+ [ 453 1068]
+ [ 453 1069]
+ ...
+ [ 509 1079]
+ [ 509 1080]
+ [ 509 1081]]",0.0,57.72406680555278,1,0.8054786088027085,2617.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",57.723359602422654,57.723359602422654,0.7853981633974483,186.50966799187808,0.9879199697999245,0.9453897485585071,1.012227741688957,
+Circles,1369.0,"(497, 503, 538, 544)","(517.0, 523.0)",1393.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[497 517]
+ [497 518]
+ [497 519]
+ ...
+ [537 527]
+ [537 528]
+ [537 529]]",0.0,41.750029182533964,1,0.8143961927424153,1369.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",41.7487703374549,41.7487703374549,0.7853981633974483,134.22539674441617,0.9827709978463748,0.9548692756729444,1.0175310445580716,
+Circles,6349.0,"(670, 776, 759, 865)","(714.0, 820.0)",6421.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[670 811]
+ [670 812]
+ [670 813]
+ ...
+ [758 827]
+ [758 828]
+ [758 829]]",0.0,89.90994310710883,1,0.8015402095694988,6349.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",89.91011069067896,89.91011069067896,0.7853981633974483,293.4213562373095,0.9887867933343716,0.9266841839480495,1.0113403685619782,
+Circles,609.0,"(735, 1344, 762, 1371)","(748.0, 1357.0)",617.0,"[[False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False False False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False False False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True False False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False False False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False False False]
+ [False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False False False]]","[[ 735 1352]
+ [ 735 1353]
+ [ 735 1354]
+ ...
+ [ 761 1360]
+ [ 761 1361]
+ [ 761 1362]]",0.0,27.846056861676377,1,0.8353909465020576,609.0,"[[False False False False False False False False  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False False False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False False False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True False False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False False False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False False False]
+ [False False False False False False False False  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False False False]]",27.848051229970487,27.848051229970487,0.7853981633974483,87.59797974644665,0.9870340356564019,0.9973302140710989,1.013136288998358,
+Circles,1941.0,"(969, 2525, 1018, 2574)","(993.0, 2549.0)",1973.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 969 2543]
+ [ 969 2544]
+ [ 969 2545]
+ ...
+ [1017 2553]
+ [1017 2554]
+ [1017 2555]]",0.0,49.71275446332612,1,0.8084131611828405,1941.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",49.71220626595599,49.71220626595599,0.7853981633974483,161.53910524340094,0.9837810440952863,0.9347168105134623,1.016486347243689,
+Circles,7825.0,"(977, 1884, 1076, 1983)","(1026.0, 1933.0)",7913.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 977 1924]
+ [ 977 1925]
+ [ 977 1926]
+ ...
+ [1075 1940]
+ [1075 1941]
+ [1075 1942]]",0.0,99.81532666656283,1,0.7983879196000409,7825.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",99.81524146198824,99.81524146198824,0.7853981633974483,326.3919189857866,0.9888790597750537,0.9230291463158866,1.0112460063897764,
+Circles,517.0,"(998, 2665, 1023, 2690)","(1010.0, 2677.0)",533.0,"[[False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True False False False False False False
+  False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False]
+ [False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True False False False False False False
+  False]]","[[ 998 2673]
+ [ 998 2674]
+ [ 998 2675]
+ ...
+ [1022 2679]
+ [1022 2680]
+ [1022 2681]]",0.0,25.65667251667837,1,0.8272,517.0,"[[False False False False False False False False  True  True  True  True
+   True  True  True  True  True False False False False False False False
+  False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False]
+ [False False False False False False False False  True  True  True  True
+   True  True  True  True  True False False False False False False False
+  False]]",25.655356011360134,25.655356011360134,0.7853981633974483,81.94112549695429,0.9699812382739212,0.9676015543820089,1.0309477756286267,
+Circles,6349.0,"(1197, 1041, 1286, 1130)","(1241.0, 1085.0)",6421.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1197 1076]
+ [1197 1077]
+ [1197 1078]
+ ...
+ [1285 1092]
+ [1285 1093]
+ [1285 1094]]",0.0,89.90994310710883,1,0.8015402095694988,6349.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",89.91011069067896,89.91011069067896,0.7853981633974483,293.4213562373095,0.9887867933343716,0.9266841839480495,1.0113403685619782,
+Circles,2997.0,"(1221, 1820, 1282, 1881)","(1251.0, 1850.0)",3029.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1221 1843]
+ [1221 1844]
+ [1221 1845]
+ ...
+ [1281 1855]
+ [1281 1856]
+ [1281 1857]]",0.0,61.77296265819928,1,0.805428648212846,2997.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",61.772635731299815,61.772635731299815,0.7853981633974483,200.16652224137044,0.9894354572466161,0.9399694085278547,1.0106773440106773,
+Circles,889.0,"(1225, 2344, 1258, 2377)","(1241.0, 2360.0)",913.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1225 2355]
+ [1225 2356]
+ [1225 2357]
+ ...
+ [1257 2363]
+ [1257 2364]
+ [1257 2365]]",0.0,33.64386950500135,1,0.8163452708907254,889.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",33.64286729286075,33.64286729286075,0.7853981633974483,109.25483399593905,0.9737130339539978,0.9359018419500063,1.0269966254218224,
+Circles,6073.0,"(1244, 2582, 1331, 2669)","(1287.0, 2625.0)",6145.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1244 2616]
+ [1244 2617]
+ [1244 2618]
+ ...
+ [1330 2632]
+ [1330 2633]
+ [1330 2634]]",0.0,87.93397383933382,1,0.8023516977143612,6073.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",87.93494893684164,87.93494893684164,0.7853981633974483,287.76450198781714,0.9882831570382424,0.9215920222024857,1.0118557549810636,
+Circles,5521.0,"(1261, 1600, 1344, 1683)","(1302.0, 1641.0)",5585.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1261 1632]
+ [1261 1633]
+ [1261 1634]
+ ...
+ [1343 1648]
+ [1343 1649]
+ [1343 1650]]",0.0,83.84244465950903,1,0.8014225577006823,5521.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",83.84275567852096,83.84275567852096,0.7853981633974483,274.1076477383248,0.9885407341092212,0.9233902949156827,1.011592102879913,
+Circles,7521.0,"(1336, 1711, 1433, 1808)","(1384.0, 1759.0)",7601.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1336 1750]
+ [1336 1751]
+ [1336 1752]
+ ...
+ [1432 1766]
+ [1432 1767]
+ [1432 1768]]",0.0,97.85721545166282,1,0.7993410564353278,7521.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",97.8574461991802,97.8574461991802,0.7853981633974483,320.73506473629425,0.9894750690698593,0.9187398796192962,1.0106368833931658,
+Circles,437.0,"(1408, 2034, 1431, 2057)","(1419.0, 2045.0)",445.0,"[[False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True False False False False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True False False False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True False False False False False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True False False False False False False]]","[[1408 2041]
+ [1408 2042]
+ [1408 2043]
+ [1408 2044]
+ [1408 2045]
+ [1408 2046]
+ [1408 2047]
+ [1408 2048]
+ [1408 2049]
+ [1409 2039]
+ [1409 2040]
+ [1409 2041]
+ [1409 2042]
+ [1409 2043]
+ [1409 2044]
+ [1409 2045]
+ [1409 2046]
+ [1409 2047]
+ [1409 2048]
+ [1409 2049]
+ [1409 2050]
+ [1409 2051]
+ [1410 2038]
+ [1410 2039]
+ [1410 2040]
+ [1410 2041]
+ [1410 2042]
+ [1410 2043]
+ [1410 2044]
+ [1410 2045]
+ [1410 2046]
+ [1410 2047]
+ [1410 2048]
+ [1410 2049]
+ [1410 2050]
+ [1410 2051]
+ [1410 2052]
+ [1411 2037]
+ [1411 2038]
+ [1411 2039]
+ [1411 2040]
+ [1411 2041]
+ [1411 2042]
+ [1411 2043]
+ [1411 2044]
+ [1411 2045]
+ [1411 2046]
+ [1411 2047]
+ [1411 2048]
+ [1411 2049]
+ [1411 2050]
+ [1411 2051]
+ [1411 2052]
+ [1411 2053]
+ [1412 2036]
+ [1412 2037]
+ [1412 2038]
+ [1412 2039]
+ [1412 2040]
+ [1412 2041]
+ [1412 2042]
+ [1412 2043]
+ [1412 2044]
+ [1412 2045]
+ [1412 2046]
+ [1412 2047]
+ [1412 2048]
+ [1412 2049]
+ [1412 2050]
+ [1412 2051]
+ [1412 2052]
+ [1412 2053]
+ [1412 2054]
+ [1413 2035]
+ [1413 2036]
+ [1413 2037]
+ [1413 2038]
+ [1413 2039]
+ [1413 2040]
+ [1413 2041]
+ [1413 2042]
+ [1413 2043]
+ [1413 2044]
+ [1413 2045]
+ [1413 2046]
+ [1413 2047]
+ [1413 2048]
+ [1413 2049]
+ [1413 2050]
+ [1413 2051]
+ [1413 2052]
+ [1413 2053]
+ [1413 2054]
+ [1413 2055]
+ [1414 2035]
+ [1414 2036]
+ [1414 2037]
+ [1414 2038]
+ [1414 2039]
+ [1414 2040]
+ [1414 2041]
+ [1414 2042]
+ [1414 2043]
+ [1414 2044]
+ [1414 2045]
+ [1414 2046]
+ [1414 2047]
+ [1414 2048]
+ [1414 2049]
+ [1414 2050]
+ [1414 2051]
+ [1414 2052]
+ [1414 2053]
+ [1414 2054]
+ [1414 2055]
+ [1415 2034]
+ [1415 2035]
+ [1415 2036]
+ [1415 2037]
+ [1415 2038]
+ [1415 2039]
+ [1415 2040]
+ [1415 2041]
+ [1415 2042]
+ [1415 2043]
+ [1415 2044]
+ [1415 2045]
+ [1415 2046]
+ [1415 2047]
+ [1415 2048]
+ [1415 2049]
+ [1415 2050]
+ [1415 2051]
+ [1415 2052]
+ [1415 2053]
+ [1415 2054]
+ [1415 2055]
+ [1415 2056]
+ [1416 2034]
+ [1416 2035]
+ [1416 2036]
+ [1416 2037]
+ [1416 2038]
+ [1416 2039]
+ [1416 2040]
+ [1416 2041]
+ [1416 2042]
+ [1416 2043]
+ [1416 2044]
+ [1416 2045]
+ [1416 2046]
+ [1416 2047]
+ [1416 2048]
+ [1416 2049]
+ [1416 2050]
+ [1416 2051]
+ [1416 2052]
+ [1416 2053]
+ [1416 2054]
+ [1416 2055]
+ [1416 2056]
+ [1417 2034]
+ [1417 2035]
+ [1417 2036]
+ [1417 2037]
+ [1417 2038]
+ [1417 2039]
+ [1417 2040]
+ [1417 2041]
+ [1417 2042]
+ [1417 2043]
+ [1417 2044]
+ [1417 2045]
+ [1417 2046]
+ [1417 2047]
+ [1417 2048]
+ [1417 2049]
+ [1417 2050]
+ [1417 2051]
+ [1417 2052]
+ [1417 2053]
+ [1417 2054]
+ [1417 2055]
+ [1417 2056]
+ [1418 2034]
+ [1418 2035]
+ [1418 2036]
+ [1418 2037]
+ [1418 2038]
+ [1418 2039]
+ [1418 2040]
+ [1418 2041]
+ [1418 2042]
+ [1418 2043]
+ [1418 2044]
+ [1418 2045]
+ [1418 2046]
+ [1418 2047]
+ [1418 2048]
+ [1418 2049]
+ [1418 2050]
+ [1418 2051]
+ [1418 2052]
+ [1418 2053]
+ [1418 2054]
+ [1418 2055]
+ [1418 2056]
+ [1419 2034]
+ [1419 2035]
+ [1419 2036]
+ [1419 2037]
+ [1419 2038]
+ [1419 2039]
+ [1419 2040]
+ [1419 2041]
+ [1419 2042]
+ [1419 2043]
+ [1419 2044]
+ [1419 2045]
+ [1419 2046]
+ [1419 2047]
+ [1419 2048]
+ [1419 2049]
+ [1419 2050]
+ [1419 2051]
+ [1419 2052]
+ [1419 2053]
+ [1419 2054]
+ [1419 2055]
+ [1419 2056]
+ [1420 2034]
+ [1420 2035]
+ [1420 2036]
+ [1420 2037]
+ [1420 2038]
+ [1420 2039]
+ [1420 2040]
+ [1420 2041]
+ [1420 2042]
+ [1420 2043]
+ [1420 2044]
+ [1420 2045]
+ [1420 2046]
+ [1420 2047]
+ [1420 2048]
+ [1420 2049]
+ [1420 2050]
+ [1420 2051]
+ [1420 2052]
+ [1420 2053]
+ [1420 2054]
+ [1420 2055]
+ [1420 2056]
+ [1421 2034]
+ [1421 2035]
+ [1421 2036]
+ [1421 2037]
+ [1421 2038]
+ [1421 2039]
+ [1421 2040]
+ [1421 2041]
+ [1421 2042]
+ [1421 2043]
+ [1421 2044]
+ [1421 2045]
+ [1421 2046]
+ [1421 2047]
+ [1421 2048]
+ [1421 2049]
+ [1421 2050]
+ [1421 2051]
+ [1421 2052]
+ [1421 2053]
+ [1421 2054]
+ [1421 2055]
+ [1421 2056]
+ [1422 2034]
+ [1422 2035]
+ [1422 2036]
+ [1422 2037]
+ [1422 2038]
+ [1422 2039]
+ [1422 2040]
+ [1422 2041]
+ [1422 2042]
+ [1422 2043]
+ [1422 2044]
+ [1422 2045]
+ [1422 2046]
+ [1422 2047]
+ [1422 2048]
+ [1422 2049]
+ [1422 2050]
+ [1422 2051]
+ [1422 2052]
+ [1422 2053]
+ [1422 2054]
+ [1422 2055]
+ [1422 2056]
+ [1423 2034]
+ [1423 2035]
+ [1423 2036]
+ [1423 2037]
+ [1423 2038]
+ [1423 2039]
+ [1423 2040]
+ [1423 2041]
+ [1423 2042]
+ [1423 2043]
+ [1423 2044]
+ [1423 2045]
+ [1423 2046]
+ [1423 2047]
+ [1423 2048]
+ [1423 2049]
+ [1423 2050]
+ [1423 2051]
+ [1423 2052]
+ [1423 2053]
+ [1423 2054]
+ [1423 2055]
+ [1423 2056]
+ [1424 2035]
+ [1424 2036]
+ [1424 2037]
+ [1424 2038]
+ [1424 2039]
+ [1424 2040]
+ [1424 2041]
+ [1424 2042]
+ [1424 2043]
+ [1424 2044]
+ [1424 2045]
+ [1424 2046]
+ [1424 2047]
+ [1424 2048]
+ [1424 2049]
+ [1424 2050]
+ [1424 2051]
+ [1424 2052]
+ [1424 2053]
+ [1424 2054]
+ [1424 2055]
+ [1425 2035]
+ [1425 2036]
+ [1425 2037]
+ [1425 2038]
+ [1425 2039]
+ [1425 2040]
+ [1425 2041]
+ [1425 2042]
+ [1425 2043]
+ [1425 2044]
+ [1425 2045]
+ [1425 2046]
+ [1425 2047]
+ [1425 2048]
+ [1425 2049]
+ [1425 2050]
+ [1425 2051]
+ [1425 2052]
+ [1425 2053]
+ [1425 2054]
+ [1425 2055]
+ [1426 2036]
+ [1426 2037]
+ [1426 2038]
+ [1426 2039]
+ [1426 2040]
+ [1426 2041]
+ [1426 2042]
+ [1426 2043]
+ [1426 2044]
+ [1426 2045]
+ [1426 2046]
+ [1426 2047]
+ [1426 2048]
+ [1426 2049]
+ [1426 2050]
+ [1426 2051]
+ [1426 2052]
+ [1426 2053]
+ [1426 2054]
+ [1427 2037]
+ [1427 2038]
+ [1427 2039]
+ [1427 2040]
+ [1427 2041]
+ [1427 2042]
+ [1427 2043]
+ [1427 2044]
+ [1427 2045]
+ [1427 2046]
+ [1427 2047]
+ [1427 2048]
+ [1427 2049]
+ [1427 2050]
+ [1427 2051]
+ [1427 2052]
+ [1427 2053]
+ [1428 2038]
+ [1428 2039]
+ [1428 2040]
+ [1428 2041]
+ [1428 2042]
+ [1428 2043]
+ [1428 2044]
+ [1428 2045]
+ [1428 2046]
+ [1428 2047]
+ [1428 2048]
+ [1428 2049]
+ [1428 2050]
+ [1428 2051]
+ [1428 2052]
+ [1429 2039]
+ [1429 2040]
+ [1429 2041]
+ [1429 2042]
+ [1429 2043]
+ [1429 2044]
+ [1429 2045]
+ [1429 2046]
+ [1429 2047]
+ [1429 2048]
+ [1429 2049]
+ [1429 2050]
+ [1429 2051]
+ [1430 2041]
+ [1430 2042]
+ [1430 2043]
+ [1430 2044]
+ [1430 2045]
+ [1430 2046]
+ [1430 2047]
+ [1430 2048]
+ [1430 2049]]",0.0,23.58825303088947,1,0.8260869565217391,437.0,"[[False False False False False False False  True  True  True  True  True
+   True  True  True  True False False False False False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True False False False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True False False False False False]
+ [False False False False False False False  True  True  True  True  True
+   True  True  True  True False False False False False False False]]",23.581399022591942,23.581399022591942,0.7853981633974483,73.94112549695429,0.9820224719101124,1.004428870343907,1.0183066361556063,
+Circles,1513.0,"(1467, 2832, 1510, 2875)","(1488.0, 2853.0)",1545.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1467 2847]
+ [1467 2848]
+ [1467 2849]
+ ...
+ [1509 2857]
+ [1509 2858]
+ [1509 2859]]",0.0,43.89090374080148,1,0.8182801514332071,1513.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",43.894242908106705,43.894242908106705,0.7853981633974483,142.22539674441617,0.9792880258899677,0.9399277770293596,1.0211500330469265,
+Circles,6917.0,"(1531, 1511, 1624, 1604)","(1577.0, 1557.0)",6989.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1531 1548]
+ [1531 1549]
+ [1531 1550]
+ ...
+ [1623 1564]
+ [1623 1565]
+ [1623 1566]]",0.0,93.84560688137256,1,0.7997456353335646,6917.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",93.84588672605604,93.84588672605604,0.7853981633974483,307.0782104868019,0.9896980970095864,0.9217850018916594,1.0104091369090646,
+Circles,3841.0,"(1692, 1072, 1761, 1141)","(1726.0, 1106.0)",3889.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1692 1098]
+ [1692 1099]
+ [1692 1100]
+ ...
+ [1760 1112]
+ [1760 1113]
+ [1760 1114]]",0.0,69.9322035354797,1,0.8067632850241546,3841.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",69.93319235432085,69.93319235432085,0.7853981633974483,227.4802307403552,0.9876574955001286,0.932753421944147,1.0124967456391565,
+Circles,2449.0,"(1982, 1759, 2037, 1814)","(2009.0, 1786.0)",2481.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1982 1779]
+ [1982 1780]
+ [1982 1781]
+ ...
+ [2036 1791]
+ [2036 1792]
+ [2036 1793]]",0.0,55.840519741997504,1,0.8095867768595041,2449.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",55.84017325330177,55.84017325330177,0.7853981633974483,180.8528137423857,0.9871019750100766,0.9409100540154336,1.0130665577786853,
+Circles,5257.0,"(2150, 791, 2231, 872)","(2190.0, 831.0)",5305.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2150  822]
+ [2150  823]
+ [2150  824]
+ ...
+ [2230  838]
+ [2230  839]
+ [2230  840]]",0.0,81.81332585021067,1,0.8012498094802621,5257.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",81.81349506120449,81.81349506120449,0.7853981633974483,266.1076477383248,0.9909519321394911,0.9328957809504703,1.0091306828989919,
+Circles,1005.0,"(2199, 2940, 2234, 2975)","(2216.0, 2957.0)",1021.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2199 2952]
+ [2199 2953]
+ [2199 2954]
+ ...
+ [2233 2960]
+ [2233 2961]
+ [2233 2962]]",0.0,35.77157729900708,1,0.8204081632653061,1005.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",35.77219242992776,35.77219242992776,0.7853981633974483,114.91168824543142,0.9843290891283056,0.9564175029984924,1.0159203980099503,
+Circles,7521.0,"(2313, 2835, 2410, 2932)","(2361.0, 2883.0)",7601.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2313 2874]
+ [2313 2875]
+ [2313 2876]
+ ...
+ [2409 2890]
+ [2409 2891]
+ [2409 2892]]",0.0,97.85721545166282,1,0.7993410564353278,7521.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",97.8574461991802,97.8574461991802,0.7853981633974483,320.73506473629425,0.9894750690698593,0.9187398796192962,1.0106368833931658,
+Circles,6073.0,"(2328, 2374, 2415, 2461)","(2371.0, 2417.0)",6145.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2328 2408]
+ [2328 2409]
+ [2328 2410]
+ ...
+ [2414 2424]
+ [2414 2425]
+ [2414 2426]]",0.0,87.93397383933382,1,0.8023516977143612,6073.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",87.93494893684164,87.93494893684164,0.7853981633974483,287.76450198781714,0.9882831570382424,0.9215920222024857,1.0118557549810636,
+Circles,1245.0,"(2423, 1978, 2462, 2017)","(2442.0, 1997.0)",1269.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2423 1991]
+ [2423 1992]
+ [2423 1993]
+ ...
+ [2461 2001]
+ [2461 2002]
+ [2461 2003]]",0.0,39.81435963562993,1,0.8185404339250493,1245.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39.81580078270273,39.81580078270273,0.7853981633974483,128.5685424949238,0.9810874704491725,0.9464763668432875,1.0192771084337349,
+Circles,517.0,"(2460, 2861, 2485, 2886)","(2472.0, 2873.0)",533.0,"[[False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True False False False False False False
+  False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False False False  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True False False False False
+  False]
+ [False False False False False False False  True  True  True  True  True
+   True  True  True  True  True  True False False False False False False
+  False]]","[[2460 2869]
+ [2460 2870]
+ [2460 2871]
+ ...
+ [2484 2875]
+ [2484 2876]
+ [2484 2877]]",0.0,25.65667251667837,1,0.8272,517.0,"[[False False False False False False False False  True  True  True  True
+   True  True  True  True  True False False False False False False False
+  False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True False
+  False]
+ [False False False  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True False False
+  False]
+ [False False False False  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True False False False
+  False]
+ [False False False False False False  True  True  True  True  True  True
+   True  True  True  True  True  True  True False False False False False
+  False]
+ [False False False False False False False False  True  True  True  True
+   True  True  True  True  True False False False False False False False
+  False]]",25.655356011360134,25.655356011360134,0.7853981633974483,81.94112549695429,0.9699812382739212,0.9676015543820089,1.0309477756286267,
+Circles,6621.0,"(2546, 573, 2637, 664)","(2591.0, 618.0)",6701.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2546  609]
+ [2546  610]
+ [2546  611]
+ ...
+ [2636  625]
+ [2636  626]
+ [2636  627]]",0.0,91.81567962876228,1,0.7995411182224369,6621.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",91.81596086238612,91.81596086238612,0.7853981633974483,301.4213562373095,0.9880614833606924,0.9157678923434165,1.0120827669536323,
+Circles,3841.0,"(2672, 532, 2741, 601)","(2706.0, 566.0)",3889.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2672  558]
+ [2672  559]
+ [2672  560]
+ ...
+ [2740  572]
+ [2740  573]
+ [2740  574]]",0.0,69.9322035354797,1,0.8067632850241546,3841.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",69.93319235432085,69.93319235432085,0.7853981633974483,227.4802307403552,0.9876574955001286,0.932753421944147,1.0124967456391565,
+Circles,2997.0,"(2673, 1137, 2734, 1198)","(2703.0, 1167.0)",3029.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2673 1160]
+ [2673 1161]
+ [2673 1162]
+ ...
+ [2733 1172]
+ [2733 1173]
+ [2733 1174]]",0.0,61.77296265819928,1,0.805428648212846,2997.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",61.772635731299815,61.772635731299815,0.7853981633974483,200.16652224137044,0.9894354572466161,0.9399694085278547,1.0106773440106773,
+Circles,4049.0,"(2735, 332, 2806, 403)","(2770.0, 367.0)",4089.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2735  359]
+ [2735  360]
+ [2735  361]
+ ...
+ [2805  373]
+ [2805  374]
+ [2805  375]]",0.0,71.80074454093547,1,0.8032136480856973,4049.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",71.80049745595224,71.80049745595224,0.7853981633974483,233.1370849898476,0.9902176571288823,0.9361273132688469,1.0098789824648062,
+Circles,4049.0,"(2886, 2737, 2957, 2808)","(2921.0, 2772.0)",4089.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2886 2764]
+ [2886 2765]
+ [2886 2766]
+ ...
+ [2956 2778]
+ [2956 2779]
+ [2956 2780]]",0.0,71.80074454093547,1,0.8032136480856973,4049.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",71.80049745595224,71.80049745595224,0.7853981633974483,233.1370849898476,0.9902176571288823,0.9361273132688469,1.0098789824648062,
+Triangles,3509.0,"(319, 2589, 430, 2654)","(389.9432886862354, 2611.6762610430324)",3646.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[ 319 2593]
+ [ 320 2593]
+ [ 321 2593]
+ ...
+ [ 428 2597]
+ [ 428 2598]
+ [ 429 2589]]",0.8686558999551727,66.84158557721149,1,0.48634788634788634,3509.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",104.49271436807871,51.767353555836394,0.30804715975832014,299.95941546018395,0.9624245748765771,0.49008141684262024,1.0390424622399543,
+Triangles,4241.0,"(346, 1666, 467, 1737)","(426.29709974062723, 1701.0)",4361.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 346 1701]
+ [ 347 1701]
+ [ 348 1701]
+ ...
+ [ 466 1734]
+ [ 466 1735]
+ [ 466 1736]]",0.8631877793644988,73.4833920639339,1,0.4936561517867536,4241.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",113.74909455654203,57.42998566906961,9.581879921581815e-18,334.373629022557,0.972483375372621,0.4766659162963769,1.0282952133930676,
+Triangles,2369.0,"(770, 1141, 861, 1194)","(830.2857745884339, 1167.0)",2457.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 770 1167]
+ [ 771 1167]
+ [ 772 1167]
+ ...
+ [ 860 1191]
+ [ 860 1192]
+ [ 860 1193]]",0.8664972483481982,54.9208929413716,1,0.49118805722579306,2369.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",85.52715507261756,42.69360342890016,-8.283445800847945e-18,248.9177848998413,0.9641839641839642,0.48046645269204535,1.0371464753060362,
+Triangles,2721.0,"(915, 804, 1012, 861)","(979.2940095553106, 832.0)",2817.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 915  832]
+ [ 916  832]
+ [ 917  832]
+ ...
+ [1011  858]
+ [1011  859]
+ [1011  860]]",0.8632899040755155,58.859874288214186,1,0.4921323928377645,2721.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",91.14221630736552,46.00023968107828,2.213619613424025e-18,266.5746391493337,0.9659211927582535,0.4811724415692379,1.0352811466372658,
+Triangles,4049.0,"(1110, 1884, 1229, 1953)","(1188.9540627315387, 1918.0)",4165.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1110 1918]
+ [1111 1918]
+ [1112 1918]
+ ...
+ [1228 1950]
+ [1228 1951]
+ [1228 1952]]",0.8671025928495408,71.80074454093547,1,0.49311898672512483,4049.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",111.90571227283687,55.743547139252726,-1.3538569574203076e-17,327.5452018978108,0.9721488595438176,0.474258536549264,1.0286490491479379,
+Triangles,3633.0,"(1133, 2376, 1246, 2441)","(1207.9066886870355, 2408.0)",3729.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1133 2408]
+ [1134 2408]
+ [1135 2408]
+ ...
+ [1245 2438]
+ [1245 2439]
+ [1245 2440]]",0.8690974312912068,68.01234642344613,1,0.4946221919673247,3633.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",106.3624902055189,52.61124164131667,5.624994191123741e-18,309.8883476483185,0.9742558326629123,0.47540612119173825,1.0264244426094138,
+Triangles,1.0,"(1215, 2641, 1216, 2642)","(1215.0, 2641.0)",1.0,[[ True]],[[1215 2641]],0.0,1.1283791670955126,1,1.0,1.0,[[ True]],0.0,0.0,0.7853981633974483,0.0,1.0,0.0,1.0,
+Triangles,3173.0,"(1217, 2642, 1337, 2712)","(1295.3293413173653, 2669.938543964702)",3311.0,"[[ True False False ... False False False]
+ [ True  True False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[1217 2642]
+ [1218 2642]
+ [1219 2642]
+ ...
+ [1335 2709]
+ [1335 2710]
+ [1336 2711]]",0.9442201467483339,63.56090839065055,1,0.37773809523809526,3173.0,"[[ True False False ... False False False]
+ [ True False False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",121.8507833896638,40.1272806027816,0.3908591687970777,318.9655121145938,0.9583207490184235,0.3919155365702829,1.043491963441538,
+Triangles,5337.0,"(1378, 761, 1524, 847)","(1467.8557241896197, 789.982574480045)",5511.0,"[[False False  True ... False False False]
+ [False False  True ... False False False]
+ [False False  True ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[1378  763]
+ [1379  763]
+ [1380  763]
+ ...
+ [1522  844]
+ [1522  845]
+ [1523  846]]",0.9058472268046742,82.43348500610394,1,0.4250557502389296,5337.0,"[[False False  True ... False False False]
+ [False False  True ... False False False]
+ [False False  True ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",139.32639867999814,59.019294263197146,0.43165534745996625,391.62846301849606,0.9684267827980403,0.4372789488933853,1.032602585722316,
+Triangles,4307.0,"(1463, 154, 1586, 225)","(1544.5846296726259, 189.0)",4429.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1463  189]
+ [1464  189]
+ [1465  189]
+ ...
+ [1585  222]
+ [1585  223]
+ [1585  224]]",0.8689259917061783,74.05297238581545,1,0.493186762853544,4307.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",115.79859544154178,57.31359282044236,8.916394202820744e-19,338.373629022557,0.9724542786181982,0.47270665597297273,1.028325980961226,
+Triangles,4773.0,"(1502, 1812, 1631, 1899)","(1580.625392834695, 1844.637335009428)",4927.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[1502 1824]
+ [1503 1824]
+ [1504 1824]
+ ...
+ [1629 1896]
+ [1629 1897]
+ [1630 1898]]",0.8686113636276771,77.95622070765701,1,0.42528735632183906,4773.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",121.82031813891177,60.361236094012135,0.45406812520966644,359.04267658086917,0.9687436573980109,0.46527439465041226,1.0322648229624973,
+Triangles,6985.0,"(1544, 2536, 1697, 2629)","(1643.9643521832497, 2568.6917680744455)",7179.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[1544 2542]
+ [1545 2542]
+ [1546 2542]
+ ...
+ [1695 2558]
+ [1695 2559]
+ [1696 2536]]",0.870342353677508,94.30576981274854,1,0.49089886850797665,6985.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",147.81101911309895,72.78911387800107,0.3343748250223967,425.3147545195113,0.9729767377072016,0.48523863956755947,1.0277738010021475,
+Triangles,4892.0,"(1587, 1589, 1720, 1668)","(1665.3262469337694, 1620.9928454619787)",5048.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True False ... False False False]]","[[1587 1607]
+ [1588 1607]
+ [1589 1607]
+ ...
+ [1718 1590]
+ [1718 1591]
+ [1719 1589]]",0.8117897131364511,78.92203654775018,1,0.4655943656609879,4892.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",113.61717179357436,66.34673376609798,0.08143563483104521,350.8711037056154,0.9690966719492868,0.49934546085191317,1.0318887980376124,
+Triangles,1.0,"(1601, 674, 1602, 675)","(1601.0, 674.0)",1.0,[[ True]],[[1601  674]],0.0,1.1283791670955126,1,1.0,1.0,[[ True]],0.0,0.0,0.7853981633974483,0.0,1.0,0.0,1.0,
+Triangles,4410.0,"(1603, 675, 1752, 762)","(1691.6861678004534, 707.0138321995465)",4575.0,"[[ True False False ... False False False]
+ [ True  True False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ... False  True  True]]","[[1603  675]
+ [1604  675]
+ [1605  675]
+ ...
+ [1750  759]
+ [1750  760]
+ [1751  761]]",0.944482597212287,74.93321287841638,1,0.3401990280027771,4410.0,"[[ True False False ... False False False]
+ [ True False False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",143.78213819651643,47.241267183514175,0.46494388086429306,387.7056274847714,0.9639344262295082,0.368675471171677,1.0374149659863945,
+Triangles,3555.0,"(1637, 1459, 1748, 1524)","(1710.6413502109704, 1491.0)",3663.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1637 1491]
+ [1638 1491]
+ [1639 1491]
+ ...
+ [1747 1521]
+ [1747 1522]
+ [1747 1523]]",0.8640322038530825,67.27827718910096,1,0.49272349272349275,3555.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",104.30740506917753,52.51215919739383,2.7717438891513095e-18,305.8883476483185,0.9705159705159705,0.47744527755965144,1.030379746835443,
+Triangles,3863.0,"(1643, 931, 1760, 998)","(1720.7204245405126, 964.0)",3979.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1643  964]
+ [1644  964]
+ [1645  964]
+ ...
+ [1759  995]
+ [1759  996]
+ [1759  997]]",0.8693753933752913,70.13219204696182,1,0.4927924480163286,3863.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",109.75774153368505,54.23703262531021,7.304809686341207e-19,320.7167747730646,0.9708469464689621,0.47194481645757336,1.0300284752782811,
+Triangles,7244.0,"(1722, 1240, 1886, 1330)","(1826.5124240750965, 1270.337244616234)",7444.0,"[[False False  True ... False False False]
+ [False False  True ... False False False]
+ [False False  True ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[1722 1242]
+ [1723 1242]
+ [1724 1242]
+ ...
+ [1884 1246]
+ [1884 1247]
+ [1885 1240]]",0.8832645591574109,96.03825936605432,1,0.4907859078590786,7244.0,"[[False False  True ... False False False]
+ [False False  True ... False False False]
+ [False False  True ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",154.27919947450422,72.3376519065733,0.3036107508321774,438.38582233137674,0.9731327243417518,0.4736693734184949,1.0276090557702926,
+Triangles,5661.0,"(1794, 2639, 1935, 2720)","(1887.5753400459282, 2679.0)",5781.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1794 2679]
+ [1795 2679]
+ [1796 2679]
+ ...
+ [1934 2717]
+ [1934 2718]
+ [1934 2719]]",0.8690500729298426,84.89881661569704,1,0.49566587864460204,5661.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",132.7487462092385,65.67400877340705,1.3278507008906906e-18,388.51576464628795,0.9792423456149455,0.4712872899688486,1.0211976682564918,
+Triangles,7317.0,"(1928, 1936, 2087, 2029)","(2033.6521798551319, 1982.0)",7473.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1928 1982]
+ [1929 1982]
+ [1930 1982]
+ ...
+ [2086 2026]
+ [2086 2027]
+ [2086 2028]]",0.8636354370725828,96.52094979240096,1,0.49482653682288497,7317.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",149.5149557232508,75.37301345692795,2.094803335790168e-18,441.4863273947651,0.979124849458049,0.4717461913485404,1.021320213202132,
+Triangles,7663.0,"(1958, 548, 2121, 643)","(2066.3258514941926, 595.0)",7825.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1958  595]
+ [1959  595]
+ [1960  595]
+ ...
+ [2120  640]
+ [2120  641]
+ [2120  642]]",0.8646406864104156,98.77669072866104,1,0.49486599935421377,7663.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",153.28052101814637,77.0067186176225,-9.378762591833602e-18,452.3147545195113,0.979297124600639,0.4706815557131185,1.0211405454782723,
+Triangles,5546.0,"(2031, 2485, 2169, 2569)","(2115.98791922106, 2517.666606563289)",5713.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[2031 2500]
+ [2032 2500]
+ [2033 2500]
+ ...
+ [2167 2488]
+ [2167 2489]
+ [2168 2485]]",0.8245471273036068,84.03205647311752,1,0.4784334023464458,5546.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",122.89692862125152,69.53425625555501,0.19541937992235875,373.80003589374985,0.9707684228951514,0.4987823209610653,1.0301117922827263,
+Triangles,3097.0,"(2109, 1565, 2212, 1626)","(2177.2902809170164, 1595.0)",3193.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2109 1595]
+ [2110 1595]
+ [2111 1595]
+ ...
+ [2211 1623]
+ [2211 1624]
+ [2211 1625]]",0.8606701340095203,62.79508635271393,1,0.4929173961483368,3097.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",96.80173339899746,49.28785716646641,-5.4576910121847775e-18,284.23149339882605,0.9699342311305982,0.4817333082108037,1.0309977397481433,
+Triangles,5292.0,"(2197, 953, 2319, 1042)","(2277.3433484504912, 988.5651927437642)",5456.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ...  True  True False]
+ [ True  True  True ...  True  True False]
+ [False False False ...  True  True  True]]","[[2197  972]
+ [2198  972]
+ [2199  972]
+ ...
+ [2317 1039]
+ [2317 1040]
+ [2318 1041]]",0.8066849431894214,82.08522199969055,1,0.4873825750598637,5292.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True False False]
+ [ True  True  True ...  True  True False]
+ [False False False ... False False  True]]",117.4683795496643,69.42166589202724,0.3187198651138479,359.00104602052653,0.9699413489736071,0.5159864197420154,1.0309901738473166,
+Triangles,4176.0,"(2223, 2250, 2336, 2326)","(2295.9997605363983, 2279.6683429118775)",4320.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[2223 2264]
+ [2224 2264]
+ [2225 2264]
+ ...
+ [2334 2264]
+ [2334 2265]
+ [2335 2250]]",0.8222961126368504,72.91809335695798,1,0.4862598975314392,4176.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True False False ... False False False]]",106.33422645292418,60.51053804518959,0.2848675402836707,320.68733752154174,0.9666666666666667,0.5102778653771991,1.0344827586206897,
+Triangles,5865.0,"(2255, 1882, 2398, 1965)","(2349.9757885763, 1923.0)",6007.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2255 1923]
+ [2256 1923]
+ [2257 1923]
+ ...
+ [2397 1962]
+ [2397 1963]
+ [2397 1964]]",0.8662467318305316,86.41498672031217,1,0.4941444098070604,5865.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",134.4797084505141,67.18827486715888,-4.456562771256463e-19,395.34419177103416,0.9763609122690194,0.47154935489646976,1.0242114236999147,
+Triangles,6177.0,"(2256, 356, 2403, 441)","(2353.621661000486, 398.0)",6321.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2256  398]
+ [2257  398]
+ [2258  398]
+ ...
+ [2402  438]
+ [2402  439]
+ [2402  440]]",0.8674702655676368,88.68371140084915,1,0.4943577430972389,6177.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",138.29194479727263,68.79872594458318,-4.4351540685611695e-18,406.1726188957804,0.977218794494542,0.47050709742765046,1.0233122875182128,
+Triangles,2369.0,"(2286, 2139, 2377, 2192)","(2346.285774588434, 2165.0)",2457.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2286 2165]
+ [2287 2165]
+ [2288 2165]
+ ...
+ [2376 2189]
+ [2376 2190]
+ [2376 2191]]",0.8664972483481982,54.9208929413716,1,0.49118805722579306,2369.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",85.52715507261756,42.69360342890016,-8.283445800847945e-18,248.9177848998413,0.9641839641839642,0.48046645269204535,1.0371464753060362,
+Triangles,10887.0,"(2324, 790, 2505, 919)","(2439.948654358409, 855.3520712776706)",13649.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[2324  874]
+ [2325  874]
+ [2326  874]
+ ...
+ [2504  860]
+ [2504  861]
+ [2504  862]]",0.7807938052020472,117.73597123874978,1,0.46627264550944364,10887.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True  True  True ... False False False]]",164.96046098415545,103.06544703374864,-0.4608963605051615,654.7117241391812,0.7976408528097296,0.31916690398960473,1.2536970698998806,
+Triangles,7317.0,"(2329, 1257, 2488, 1350)","(2434.652179855132, 1303.0)",7473.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2329 1303]
+ [2330 1303]
+ [2331 1303]
+ ...
+ [2487 1347]
+ [2487 1348]
+ [2487 1349]]",0.8636354370725828,96.52094979240096,1,0.49482653682288497,7317.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",149.5149557232508,75.37301345692795,2.094803335790168e-18,441.4863273947651,0.979124849458049,0.4717461913485404,1.021320213202132,
+Triangles,3863.0,"(2454, 548, 2571, 615)","(2531.7204245405123, 581.0)",3979.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2454  581]
+ [2455  581]
+ [2456  581]
+ ...
+ [2570  612]
+ [2570  613]
+ [2570  614]]",0.8693753933752913,70.13219204696182,1,0.4927924480163286,3863.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",109.75774153368505,54.23703262531021,7.304809686341207e-19,320.7167747730646,0.9708469464689621,0.47194481645757336,1.0300284752782811,
+Triangles,8381.0,"(2478, 197, 2649, 296)","(2591.6373941057154, 246.0)",8551.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2478  246]
+ [2479  246]
+ [2480  246]
+ ...
+ [2648  293]
+ [2648  294]
+ [2648  295]]",0.866750332721203,103.30063225569047,1,0.4950676354185126,8381.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",160.88301287396357,80.23916047146488,-1.1429464143735176e-17,473.97160876900364,0.9801192842942346,0.46881451437056765,1.0202839756592292,
+Triangles,2721.0,"(2678, 1969, 2775, 2026)","(2742.2940095553104, 1997.0)",2817.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2678 1997]
+ [2679 1997]
+ [2680 1997]
+ ...
+ [2774 2023]
+ [2774 2024]
+ [2774 2025]]",0.8632899040755155,58.859874288214186,1,0.4921323928377645,2721.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",91.14221630736552,46.00023968107828,2.213619613424025e-18,266.5746391493337,0.9659211927582535,0.4811724415692379,1.0352811466372658,
+Triangles,4968.0,"(2757, 1242, 2895, 1327)","(2841.638285024155, 1271.674114331723)",5134.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[2757 1247]
+ [2758 1247]
+ [2759 1247]
+ ...
+ [2893 1324]
+ [2893 1325]
+ [2894 1326]]",0.8952971709734441,79.53272319142788,1,0.4235294117647059,4968.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",131.09023427777194,58.396686436768356,0.44190117984887073,374.21424945612296,0.9676665368134009,0.44581103048113796,1.0334138486312399,
+Rectangles,2928.0,"(118, 1440, 166, 1501)","(141.5, 1470.0)",2928.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 118 1440]
+ [ 118 1441]
+ [ 118 1442]
+ ...
+ [ 165 1498]
+ [ 165 1499]
+ [ 165 1500]]",0.6171822895179541,61.05772176379132,1,1.0,2928.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",70.42726744663604,55.41359640617694,1.5707963267948966,214.0,1.0,0.8034398890480317,1.0,
+Rectangles,3818.0,"(187, 939, 233, 1022)","(209.5, 980.0)",3818.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 187  939]
+ [ 187  940]
+ [ 187  941]
+ ...
+ [ 232 1019]
+ [ 232 1020]
+ [ 232 1021]]",0.8324327305380779,69.72251129871077,1,1.0,3818.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",95.83318840568751,53.103672189407014,1.5707963267948966,254.0,1.0,0.7436667339206292,1.0,
+Rectangles,6862.0,"(205, 2161, 278, 2255)","(241.0, 2207.5)",6862.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 205 2161]
+ [ 205 2162]
+ [ 205 2163]
+ ...
+ [ 277 2252]
+ [ 277 2253]
+ [ 277 2254]]",0.6300348981090763,93.47175913596944,1,1.0,6862.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",108.53570840972108,84.2852300228219,1.5707963267948966,330.0,1.0,0.7918313604750472,1.0,
+Rectangles,3869.0,"(396, 111, 449, 184)","(422.0, 147.0)",3869.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[396 111]
+ [396 112]
+ [396 113]
+ ...
+ [448 181]
+ [448 182]
+ [448 183]]",0.6877303054053769,70.18663546986951,1,1.0,3869.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",84.2852300228219,61.18823416311342,1.5707963267948966,248.0,1.0,0.7905061119106991,1.0,
+Rectangles,2752.0,"(537, 1407, 580, 1471)","(558.0, 1438.5)",2752.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 537 1407]
+ [ 537 1408]
+ [ 537 1409]
+ ...
+ [ 579 1468]
+ [ 579 1469]
+ [ 579 1470]]",0.7407549856180171,59.19421616265535,1,1.0,2752.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",73.89181280764467,49.63869458396343,1.5707963267948966,210.0,1.0,0.7841871186103502,1.0,
+Rectangles,5250.0,"(822, 2478, 897, 2548)","(859.0, 2512.5)",5250.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 822 2478]
+ [ 822 2479]
+ [ 822 2480]
+ ...
+ [ 896 2545]
+ [ 896 2546]
+ [ 896 2547]]",0.3590429034856218,81.7588381146626,1,1.0,5250.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",86.59484203269076,80.820789404707,0.0,286.0,1.0,0.8065607820111699,1.0,
+Rectangles,1652.0,"(871, 2308, 930, 2336)","(900.0, 2321.5)",1652.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 871 2308]
+ [ 871 2309]
+ [ 871 2310]
+ ...
+ [ 929 2333]
+ [ 929 2334]
+ [ 929 2335]]",0.8803408430829505,45.86274880447626,1,1.0,1652.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",68.11754546370561,32.31098884280702,0.0,170.0,1.0,0.7183267908277285,1.0,
+Rectangles,1288.0,"(920, 2481, 934, 2573)","(926.5, 2526.5)",1288.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 920 2481]
+ [ 920 2482]
+ [ 920 2483]
+ ...
+ [ 933 2570]
+ [ 933 2571]
+ [ 933 2572]]",0.9884121232287786,40.49608047229867,1,1.0,1288.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",106.22617379911601,16.1245154965971,1.5707963267948966,208.0,1.0,0.37410977605618095,1.0,
+Rectangles,6370.0,"(959, 392, 1029, 483)","(993.5, 437.0)",6370.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 959  392]
+ [ 959  393]
+ [ 959  394]
+ ...
+ [1028  480]
+ [1028  481]
+ [1028  482]]",0.6390096504226938,90.05851375612961,1,1.0,6370.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",105.07140429250958,80.820789404707,1.5707963267948966,318.0,1.0,0.7915804439447404,1.0,
+Rectangles,1566.0,"(981, 820, 1010, 874)","(995.0, 846.5)",1566.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 981  820]
+ [ 981  821]
+ [ 981  822]
+ ...
+ [1009  871]
+ [1009  872]
+ [1009  873]]",0.8437033450667621,44.653030435293694,1,1.0,1566.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",62.3431364840322,33.46640106136302,1.5707963267948966,162.0,1.0,0.7498451601160823,1.0,
+Rectangles,3472.0,"(1014, 2840, 1076, 2896)","(1044.5, 2867.5)",3472.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1014 2840]
+ [1014 2841]
+ [1014 2842]
+ ...
+ [1075 2893]
+ [1075 2894]
+ [1075 2895]]",0.42922146903081526,66.48825234069915,1,1.0,3472.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",71.58212067269312,64.65291950097846,0.0,232.0,1.0,0.8106130865980797,1.0,
+Rectangles,620.0,"(1050, 1347, 1060, 1409)","(1054.5, 1377.5)",620.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]]","[[1050 1347]
+ [1050 1348]
+ [1050 1349]
+ ...
+ [1059 1406]
+ [1059 1407]
+ [1059 1408]]",0.9870353974798574,28.096414677602564,1,1.0,620.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True]]",71.58212067269312,11.489125293076057,1.5707963267948966,140.0,1.0,0.39750764188279014,1.0,
+Rectangles,4420.0,"(1313, 2003, 1398, 2055)","(1355.0, 2028.5)",4420.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1313 2003]
+ [1313 2004]
+ [1313 2005]
+ ...
+ [1397 2052]
+ [1397 2053]
+ [1397 2054]]",0.7910945359336349,75.01812306189365,1,1.0,4420.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",98.14275317108238,60.03332407921454,0.0,270.0,1.0,0.7619116339570308,1.0,
+Rectangles,3626.0,"(1442, 721, 1491, 795)","(1466.0, 757.5)",3626.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1442  721]
+ [1442  722]
+ [1442  723]
+ ...
+ [1490  792]
+ [1490  793]
+ [1490  794]]",0.7494290063884893,67.9467923393717,1,1.0,3626.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",85.44003745317531,56.568542494923804,1.5707963267948966,242.0,1.0,0.7780489694636015,1.0,
+Rectangles,770.0,"(1515, 975, 1592, 985)","(1553.0, 979.5)",770.0,"[[ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]]","[[1515  975]
+ [1515  976]
+ [1515  977]
+ ...
+ [1591  982]
+ [1591  983]
+ [1591  984]]",0.9916146404434035,31.311251163856024,1,1.0,770.0,"[[ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True]]",88.90444308357148,11.489125293076057,0.0,170.0,1.0,0.3348133347078396,1.0,
+Rectangles,1826.0,"(1689, 702, 1772, 724)","(1730.0, 712.5)",1826.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1689  702]
+ [1689  703]
+ [1689  704]
+ ...
+ [1771  721]
+ [1771  722]
+ [1771  723]]",0.9643018452644835,48.21758401959193,1,1.0,1826.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",95.83318840568751,25.37715508089904,0.0,206.0,1.0,0.5407246852158509,1.0,
+Rectangles,3034.0,"(1696, 1262, 1778, 1299)","(1736.5, 1280.0)",3034.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1696 1262]
+ [1696 1263]
+ [1696 1264]
+ ...
+ [1777 1296]
+ [1777 1297]
+ [1777 1298]]",0.8924793616533899,62.15310755486393,1,1.0,3034.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",94.678403028357,42.708313008125245,0.0,234.0,1.0,0.69629571999353,1.0,
+Rectangles,4455.0,"(1696, 2047, 1741, 2146)","(1718.0, 2096.0)",4455.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1696 2047]
+ [1696 2048]
+ [1696 2049]
+ ...
+ [1740 2143]
+ [1740 2144]
+ [1740 2145]]",0.8907689867497083,75.31455484695604,1,1.0,4455.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",114.30952132988165,51.94869263674175,1.5707963267948966,284.0,1.0,0.6940981586859021,1.0,
+Rectangles,1342.0,"(1727, 1848, 1788, 1870)","(1757.0, 1858.5)",1342.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1727 1848]
+ [1727 1849]
+ [1727 1850]
+ ...
+ [1787 1867]
+ [1787 1868]
+ [1787 1869]]",0.9328243619902841,41.3362730423848,1,1.0,1342.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",70.42726744663604,25.37715508089904,0.0,162.0,1.0,0.6425876148632071,1.0,
+Rectangles,3808.0,"(1790, 63, 1858, 119)","(1823.5, 90.5)",3808.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1790   63]
+ [1790   64]
+ [1790   65]
+ ...
+ [1857  116]
+ [1857  117]
+ [1857  118]]",0.5673349242626657,69.63114379608811,1,1.0,3808.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",78.51114570556209,64.65291950097846,0.0,244.0,1.0,0.8037614098945131,1.0,
+Rectangles,7810.0,"(1916, 1875, 2002, 1970)","(1959.880281690141, 1921.7464788732395)",7986.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [False False False ... False False False]]","[[1916 1891]
+ [1916 1892]
+ [1916 1893]
+ ...
+ [2001 1943]
+ [2001 1944]
+ [2001 1945]]",0.45762158974173567,99.71961113232251,1,0.95593635250918,7810.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [False False False ... False False False]]",107.45627035028315,95.54442603240929,1.5181524847988785,355.65685424949237,0.977961432506887,0.7758871015322117,1.0225352112676056,
+Rectangles,351.0,"(1948, 1536, 1975, 1549)","(1961.0, 1542.0)",351.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]]","[[1948 1536]
+ [1948 1537]
+ [1948 1538]
+ [1948 1539]
+ [1948 1540]
+ [1948 1541]
+ [1948 1542]
+ [1948 1543]
+ [1948 1544]
+ [1948 1545]
+ [1948 1546]
+ [1948 1547]
+ [1948 1548]
+ [1949 1536]
+ [1949 1537]
+ [1949 1538]
+ [1949 1539]
+ [1949 1540]
+ [1949 1541]
+ [1949 1542]
+ [1949 1543]
+ [1949 1544]
+ [1949 1545]
+ [1949 1546]
+ [1949 1547]
+ [1949 1548]
+ [1950 1536]
+ [1950 1537]
+ [1950 1538]
+ [1950 1539]
+ [1950 1540]
+ [1950 1541]
+ [1950 1542]
+ [1950 1543]
+ [1950 1544]
+ [1950 1545]
+ [1950 1546]
+ [1950 1547]
+ [1950 1548]
+ [1951 1536]
+ [1951 1537]
+ [1951 1538]
+ [1951 1539]
+ [1951 1540]
+ [1951 1541]
+ [1951 1542]
+ [1951 1543]
+ [1951 1544]
+ [1951 1545]
+ [1951 1546]
+ [1951 1547]
+ [1951 1548]
+ [1952 1536]
+ [1952 1537]
+ [1952 1538]
+ [1952 1539]
+ [1952 1540]
+ [1952 1541]
+ [1952 1542]
+ [1952 1543]
+ [1952 1544]
+ [1952 1545]
+ [1952 1546]
+ [1952 1547]
+ [1952 1548]
+ [1953 1536]
+ [1953 1537]
+ [1953 1538]
+ [1953 1539]
+ [1953 1540]
+ [1953 1541]
+ [1953 1542]
+ [1953 1543]
+ [1953 1544]
+ [1953 1545]
+ [1953 1546]
+ [1953 1547]
+ [1953 1548]
+ [1954 1536]
+ [1954 1537]
+ [1954 1538]
+ [1954 1539]
+ [1954 1540]
+ [1954 1541]
+ [1954 1542]
+ [1954 1543]
+ [1954 1544]
+ [1954 1545]
+ [1954 1546]
+ [1954 1547]
+ [1954 1548]
+ [1955 1536]
+ [1955 1537]
+ [1955 1538]
+ [1955 1539]
+ [1955 1540]
+ [1955 1541]
+ [1955 1542]
+ [1955 1543]
+ [1955 1544]
+ [1955 1545]
+ [1955 1546]
+ [1955 1547]
+ [1955 1548]
+ [1956 1536]
+ [1956 1537]
+ [1956 1538]
+ [1956 1539]
+ [1956 1540]
+ [1956 1541]
+ [1956 1542]
+ [1956 1543]
+ [1956 1544]
+ [1956 1545]
+ [1956 1546]
+ [1956 1547]
+ [1956 1548]
+ [1957 1536]
+ [1957 1537]
+ [1957 1538]
+ [1957 1539]
+ [1957 1540]
+ [1957 1541]
+ [1957 1542]
+ [1957 1543]
+ [1957 1544]
+ [1957 1545]
+ [1957 1546]
+ [1957 1547]
+ [1957 1548]
+ [1958 1536]
+ [1958 1537]
+ [1958 1538]
+ [1958 1539]
+ [1958 1540]
+ [1958 1541]
+ [1958 1542]
+ [1958 1543]
+ [1958 1544]
+ [1958 1545]
+ [1958 1546]
+ [1958 1547]
+ [1958 1548]
+ [1959 1536]
+ [1959 1537]
+ [1959 1538]
+ [1959 1539]
+ [1959 1540]
+ [1959 1541]
+ [1959 1542]
+ [1959 1543]
+ [1959 1544]
+ [1959 1545]
+ [1959 1546]
+ [1959 1547]
+ [1959 1548]
+ [1960 1536]
+ [1960 1537]
+ [1960 1538]
+ [1960 1539]
+ [1960 1540]
+ [1960 1541]
+ [1960 1542]
+ [1960 1543]
+ [1960 1544]
+ [1960 1545]
+ [1960 1546]
+ [1960 1547]
+ [1960 1548]
+ [1961 1536]
+ [1961 1537]
+ [1961 1538]
+ [1961 1539]
+ [1961 1540]
+ [1961 1541]
+ [1961 1542]
+ [1961 1543]
+ [1961 1544]
+ [1961 1545]
+ [1961 1546]
+ [1961 1547]
+ [1961 1548]
+ [1962 1536]
+ [1962 1537]
+ [1962 1538]
+ [1962 1539]
+ [1962 1540]
+ [1962 1541]
+ [1962 1542]
+ [1962 1543]
+ [1962 1544]
+ [1962 1545]
+ [1962 1546]
+ [1962 1547]
+ [1962 1548]
+ [1963 1536]
+ [1963 1537]
+ [1963 1538]
+ [1963 1539]
+ [1963 1540]
+ [1963 1541]
+ [1963 1542]
+ [1963 1543]
+ [1963 1544]
+ [1963 1545]
+ [1963 1546]
+ [1963 1547]
+ [1963 1548]
+ [1964 1536]
+ [1964 1537]
+ [1964 1538]
+ [1964 1539]
+ [1964 1540]
+ [1964 1541]
+ [1964 1542]
+ [1964 1543]
+ [1964 1544]
+ [1964 1545]
+ [1964 1546]
+ [1964 1547]
+ [1964 1548]
+ [1965 1536]
+ [1965 1537]
+ [1965 1538]
+ [1965 1539]
+ [1965 1540]
+ [1965 1541]
+ [1965 1542]
+ [1965 1543]
+ [1965 1544]
+ [1965 1545]
+ [1965 1546]
+ [1965 1547]
+ [1965 1548]
+ [1966 1536]
+ [1966 1537]
+ [1966 1538]
+ [1966 1539]
+ [1966 1540]
+ [1966 1541]
+ [1966 1542]
+ [1966 1543]
+ [1966 1544]
+ [1966 1545]
+ [1966 1546]
+ [1966 1547]
+ [1966 1548]
+ [1967 1536]
+ [1967 1537]
+ [1967 1538]
+ [1967 1539]
+ [1967 1540]
+ [1967 1541]
+ [1967 1542]
+ [1967 1543]
+ [1967 1544]
+ [1967 1545]
+ [1967 1546]
+ [1967 1547]
+ [1967 1548]
+ [1968 1536]
+ [1968 1537]
+ [1968 1538]
+ [1968 1539]
+ [1968 1540]
+ [1968 1541]
+ [1968 1542]
+ [1968 1543]
+ [1968 1544]
+ [1968 1545]
+ [1968 1546]
+ [1968 1547]
+ [1968 1548]
+ [1969 1536]
+ [1969 1537]
+ [1969 1538]
+ [1969 1539]
+ [1969 1540]
+ [1969 1541]
+ [1969 1542]
+ [1969 1543]
+ [1969 1544]
+ [1969 1545]
+ [1969 1546]
+ [1969 1547]
+ [1969 1548]
+ [1970 1536]
+ [1970 1537]
+ [1970 1538]
+ [1970 1539]
+ [1970 1540]
+ [1970 1541]
+ [1970 1542]
+ [1970 1543]
+ [1970 1544]
+ [1970 1545]
+ [1970 1546]
+ [1970 1547]
+ [1970 1548]
+ [1971 1536]
+ [1971 1537]
+ [1971 1538]
+ [1971 1539]
+ [1971 1540]
+ [1971 1541]
+ [1971 1542]
+ [1971 1543]
+ [1971 1544]
+ [1971 1545]
+ [1971 1546]
+ [1971 1547]
+ [1971 1548]
+ [1972 1536]
+ [1972 1537]
+ [1972 1538]
+ [1972 1539]
+ [1972 1540]
+ [1972 1541]
+ [1972 1542]
+ [1972 1543]
+ [1972 1544]
+ [1972 1545]
+ [1972 1546]
+ [1972 1547]
+ [1972 1548]
+ [1973 1536]
+ [1973 1537]
+ [1973 1538]
+ [1973 1539]
+ [1973 1540]
+ [1973 1541]
+ [1973 1542]
+ [1973 1543]
+ [1973 1544]
+ [1973 1545]
+ [1973 1546]
+ [1973 1547]
+ [1973 1548]
+ [1974 1536]
+ [1974 1537]
+ [1974 1538]
+ [1974 1539]
+ [1974 1540]
+ [1974 1541]
+ [1974 1542]
+ [1974 1543]
+ [1974 1544]
+ [1974 1545]
+ [1974 1546]
+ [1974 1547]
+ [1974 1548]]",0.8770580193070292,21.14017691983778,1,1.0,351.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True]]",31.15552385479446,14.966629547095765,0.0,76.0,1.0,0.7636419815858846,1.0,
+Rectangles,954.0,"(2062, 677, 2115, 695)","(2088.0, 685.5)",954.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]]","[[2062  677]
+ [2062  678]
+ [2062  679]
+ ...
+ [2114  692]
+ [2114  693]
+ [2114  694]]",0.9407292437101709,34.8521236896311,1,1.0,954.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True]]",61.18823416311342,20.752509888364507,0.0,138.0,1.0,0.6295062784130776,1.0,
+Rectangles,9786.0,"(2198, 465, 2312, 558)","(2258.544144696505, 511.85990190067446)",10179.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2198  500]
+ [2198  501]
+ [2198  502]
+ ...
+ [2311  555]
+ [2311  556]
+ [2311  557]]",0.545138701040663,111.62402154007131,1,0.923033389926429,9786.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",124.32309288463082,104.22575138253278,-0.16011183612909471,408.8284271247462,0.9613910993221338,0.7357544599758494,1.0401594114040467,
+Rectangles,1440.0,"(2266, 2110, 2286, 2182)","(2275.5, 2145.5)",1440.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2266 2110]
+ [2266 2111]
+ [2266 2112]
+ ...
+ [2285 2179]
+ [2285 2180]
+ [2285 2181]]",0.9607380274555545,42.81897878766651,1,1.0,1440.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",83.1304196228232,23.065125189341593,1.5707963267948966,180.0,1.0,0.5585053606381855,1.0,
+Rectangles,950.0,"(2300, 157, 2338, 182)","(2318.5, 169.0)",950.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]]","[[2300  157]
+ [2300  158]
+ [2300  159]
+ ...
+ [2337  179]
+ [2337  180]
+ [2337  181]]",0.753370803500884,34.77898169151024,1,1.0,950.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True]]",43.86342439892262,28.844410203711913,0.0,122.0,1.0,0.8020728355039783,1.0,
+Rectangles,5005.0,"(2552, 1849, 2643, 1904)","(2597.0, 1876.0)",5005.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2552 1849]
+ [2552 1850]
+ [2552 1851]
+ ...
+ [2642 1901]
+ [2642 1902]
+ [2642 1903]]",0.7967324574131847,79.82834033975332,1,1.0,5005.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",105.07140429250958,63.49803146555018,0.0,288.0,1.0,0.7582788981103836,1.0,
+Rectangles,406.0,"(2595, 2353, 2609, 2382)","(2601.5, 2367.0)",406.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]]","[[2595 2353]
+ [2595 2354]
+ [2595 2355]
+ [2595 2356]
+ [2595 2357]
+ [2595 2358]
+ [2595 2359]
+ [2595 2360]
+ [2595 2361]
+ [2595 2362]
+ [2595 2363]
+ [2595 2364]
+ [2595 2365]
+ [2595 2366]
+ [2595 2367]
+ [2595 2368]
+ [2595 2369]
+ [2595 2370]
+ [2595 2371]
+ [2595 2372]
+ [2595 2373]
+ [2595 2374]
+ [2595 2375]
+ [2595 2376]
+ [2595 2377]
+ [2595 2378]
+ [2595 2379]
+ [2595 2380]
+ [2595 2381]
+ [2596 2353]
+ [2596 2354]
+ [2596 2355]
+ [2596 2356]
+ [2596 2357]
+ [2596 2358]
+ [2596 2359]
+ [2596 2360]
+ [2596 2361]
+ [2596 2362]
+ [2596 2363]
+ [2596 2364]
+ [2596 2365]
+ [2596 2366]
+ [2596 2367]
+ [2596 2368]
+ [2596 2369]
+ [2596 2370]
+ [2596 2371]
+ [2596 2372]
+ [2596 2373]
+ [2596 2374]
+ [2596 2375]
+ [2596 2376]
+ [2596 2377]
+ [2596 2378]
+ [2596 2379]
+ [2596 2380]
+ [2596 2381]
+ [2597 2353]
+ [2597 2354]
+ [2597 2355]
+ [2597 2356]
+ [2597 2357]
+ [2597 2358]
+ [2597 2359]
+ [2597 2360]
+ [2597 2361]
+ [2597 2362]
+ [2597 2363]
+ [2597 2364]
+ [2597 2365]
+ [2597 2366]
+ [2597 2367]
+ [2597 2368]
+ [2597 2369]
+ [2597 2370]
+ [2597 2371]
+ [2597 2372]
+ [2597 2373]
+ [2597 2374]
+ [2597 2375]
+ [2597 2376]
+ [2597 2377]
+ [2597 2378]
+ [2597 2379]
+ [2597 2380]
+ [2597 2381]
+ [2598 2353]
+ [2598 2354]
+ [2598 2355]
+ [2598 2356]
+ [2598 2357]
+ [2598 2358]
+ [2598 2359]
+ [2598 2360]
+ [2598 2361]
+ [2598 2362]
+ [2598 2363]
+ [2598 2364]
+ [2598 2365]
+ [2598 2366]
+ [2598 2367]
+ [2598 2368]
+ [2598 2369]
+ [2598 2370]
+ [2598 2371]
+ [2598 2372]
+ [2598 2373]
+ [2598 2374]
+ [2598 2375]
+ [2598 2376]
+ [2598 2377]
+ [2598 2378]
+ [2598 2379]
+ [2598 2380]
+ [2598 2381]
+ [2599 2353]
+ [2599 2354]
+ [2599 2355]
+ [2599 2356]
+ [2599 2357]
+ [2599 2358]
+ [2599 2359]
+ [2599 2360]
+ [2599 2361]
+ [2599 2362]
+ [2599 2363]
+ [2599 2364]
+ [2599 2365]
+ [2599 2366]
+ [2599 2367]
+ [2599 2368]
+ [2599 2369]
+ [2599 2370]
+ [2599 2371]
+ [2599 2372]
+ [2599 2373]
+ [2599 2374]
+ [2599 2375]
+ [2599 2376]
+ [2599 2377]
+ [2599 2378]
+ [2599 2379]
+ [2599 2380]
+ [2599 2381]
+ [2600 2353]
+ [2600 2354]
+ [2600 2355]
+ [2600 2356]
+ [2600 2357]
+ [2600 2358]
+ [2600 2359]
+ [2600 2360]
+ [2600 2361]
+ [2600 2362]
+ [2600 2363]
+ [2600 2364]
+ [2600 2365]
+ [2600 2366]
+ [2600 2367]
+ [2600 2368]
+ [2600 2369]
+ [2600 2370]
+ [2600 2371]
+ [2600 2372]
+ [2600 2373]
+ [2600 2374]
+ [2600 2375]
+ [2600 2376]
+ [2600 2377]
+ [2600 2378]
+ [2600 2379]
+ [2600 2380]
+ [2600 2381]
+ [2601 2353]
+ [2601 2354]
+ [2601 2355]
+ [2601 2356]
+ [2601 2357]
+ [2601 2358]
+ [2601 2359]
+ [2601 2360]
+ [2601 2361]
+ [2601 2362]
+ [2601 2363]
+ [2601 2364]
+ [2601 2365]
+ [2601 2366]
+ [2601 2367]
+ [2601 2368]
+ [2601 2369]
+ [2601 2370]
+ [2601 2371]
+ [2601 2372]
+ [2601 2373]
+ [2601 2374]
+ [2601 2375]
+ [2601 2376]
+ [2601 2377]
+ [2601 2378]
+ [2601 2379]
+ [2601 2380]
+ [2601 2381]
+ [2602 2353]
+ [2602 2354]
+ [2602 2355]
+ [2602 2356]
+ [2602 2357]
+ [2602 2358]
+ [2602 2359]
+ [2602 2360]
+ [2602 2361]
+ [2602 2362]
+ [2602 2363]
+ [2602 2364]
+ [2602 2365]
+ [2602 2366]
+ [2602 2367]
+ [2602 2368]
+ [2602 2369]
+ [2602 2370]
+ [2602 2371]
+ [2602 2372]
+ [2602 2373]
+ [2602 2374]
+ [2602 2375]
+ [2602 2376]
+ [2602 2377]
+ [2602 2378]
+ [2602 2379]
+ [2602 2380]
+ [2602 2381]
+ [2603 2353]
+ [2603 2354]
+ [2603 2355]
+ [2603 2356]
+ [2603 2357]
+ [2603 2358]
+ [2603 2359]
+ [2603 2360]
+ [2603 2361]
+ [2603 2362]
+ [2603 2363]
+ [2603 2364]
+ [2603 2365]
+ [2603 2366]
+ [2603 2367]
+ [2603 2368]
+ [2603 2369]
+ [2603 2370]
+ [2603 2371]
+ [2603 2372]
+ [2603 2373]
+ [2603 2374]
+ [2603 2375]
+ [2603 2376]
+ [2603 2377]
+ [2603 2378]
+ [2603 2379]
+ [2603 2380]
+ [2603 2381]
+ [2604 2353]
+ [2604 2354]
+ [2604 2355]
+ [2604 2356]
+ [2604 2357]
+ [2604 2358]
+ [2604 2359]
+ [2604 2360]
+ [2604 2361]
+ [2604 2362]
+ [2604 2363]
+ [2604 2364]
+ [2604 2365]
+ [2604 2366]
+ [2604 2367]
+ [2604 2368]
+ [2604 2369]
+ [2604 2370]
+ [2604 2371]
+ [2604 2372]
+ [2604 2373]
+ [2604 2374]
+ [2604 2375]
+ [2604 2376]
+ [2604 2377]
+ [2604 2378]
+ [2604 2379]
+ [2604 2380]
+ [2604 2381]
+ [2605 2353]
+ [2605 2354]
+ [2605 2355]
+ [2605 2356]
+ [2605 2357]
+ [2605 2358]
+ [2605 2359]
+ [2605 2360]
+ [2605 2361]
+ [2605 2362]
+ [2605 2363]
+ [2605 2364]
+ [2605 2365]
+ [2605 2366]
+ [2605 2367]
+ [2605 2368]
+ [2605 2369]
+ [2605 2370]
+ [2605 2371]
+ [2605 2372]
+ [2605 2373]
+ [2605 2374]
+ [2605 2375]
+ [2605 2376]
+ [2605 2377]
+ [2605 2378]
+ [2605 2379]
+ [2605 2380]
+ [2605 2381]
+ [2606 2353]
+ [2606 2354]
+ [2606 2355]
+ [2606 2356]
+ [2606 2357]
+ [2606 2358]
+ [2606 2359]
+ [2606 2360]
+ [2606 2361]
+ [2606 2362]
+ [2606 2363]
+ [2606 2364]
+ [2606 2365]
+ [2606 2366]
+ [2606 2367]
+ [2606 2368]
+ [2606 2369]
+ [2606 2370]
+ [2606 2371]
+ [2606 2372]
+ [2606 2373]
+ [2606 2374]
+ [2606 2375]
+ [2606 2376]
+ [2606 2377]
+ [2606 2378]
+ [2606 2379]
+ [2606 2380]
+ [2606 2381]
+ [2607 2353]
+ [2607 2354]
+ [2607 2355]
+ [2607 2356]
+ [2607 2357]
+ [2607 2358]
+ [2607 2359]
+ [2607 2360]
+ [2607 2361]
+ [2607 2362]
+ [2607 2363]
+ [2607 2364]
+ [2607 2365]
+ [2607 2366]
+ [2607 2367]
+ [2607 2368]
+ [2607 2369]
+ [2607 2370]
+ [2607 2371]
+ [2607 2372]
+ [2607 2373]
+ [2607 2374]
+ [2607 2375]
+ [2607 2376]
+ [2607 2377]
+ [2607 2378]
+ [2607 2379]
+ [2607 2380]
+ [2607 2381]
+ [2608 2353]
+ [2608 2354]
+ [2608 2355]
+ [2608 2356]
+ [2608 2357]
+ [2608 2358]
+ [2608 2359]
+ [2608 2360]
+ [2608 2361]
+ [2608 2362]
+ [2608 2363]
+ [2608 2364]
+ [2608 2365]
+ [2608 2366]
+ [2608 2367]
+ [2608 2368]
+ [2608 2369]
+ [2608 2370]
+ [2608 2371]
+ [2608 2372]
+ [2608 2373]
+ [2608 2374]
+ [2608 2375]
+ [2608 2376]
+ [2608 2377]
+ [2608 2378]
+ [2608 2379]
+ [2608 2380]
+ [2608 2381]]",0.876274581884664,22.736210219877808,1,1.0,406.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True]]",33.46640106136302,16.1245154965971,1.5707963267948966,82.0,1.0,0.7587665778450066,1.0,
+Rectangles,902.0,"(2663, 1016, 2674, 1098)","(2668.0, 1056.5)",902.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]]","[[2663 1016]
+ [2663 1017]
+ [2663 1018]
+ ...
+ [2673 1095]
+ [2673 1096]
+ [2673 1097]]",0.9910352292044514,33.88896677904354,1,1.0,902.0,"[[ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True  True  True
+   True  True  True  True  True  True  True  True  True  True]]",94.678403028357,12.649110640673518,1.5707963267948966,182.0,1.0,0.34219497325661075,1.0,
+Rectangles,6039.0,"(2765, 732, 2864, 793)","(2814.0, 762.0)",6039.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2765  732]
+ [2765  733]
+ [2765  734]
+ ...
+ [2863  790]
+ [2863  791]
+ [2863  792]]",0.7876599286908699,87.68747693174691,1,1.0,6039.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",114.30952132988165,70.42726744663604,0.0,316.0,1.0,0.7599774889852893,1.0,
+Rectangles,8370.0,"(2853, 2724, 2943, 2817)","(2897.5, 2770.0)",8370.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2853 2724]
+ [2853 2725]
+ [2853 2726]
+ ...
+ [2942 2814]
+ [2942 2815]
+ [2942 2816]]",0.25195810408968045,103.23281934265533,1,1.0,8370.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",107.38094182240472,103.9166332531355,1.5707963267948966,362.0,1.0,0.8026351610313046,1.0,

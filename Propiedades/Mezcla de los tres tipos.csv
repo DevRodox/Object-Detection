@@ -1,0 +1,610 @@
+Categoría de gráfica,area,bounding_box,centroid,convex_area,convex_image,coordinates,eccentricity,equivalent_diameter,euler_number,extent,filled_area,filled_image,major_axis_length,minor_axis_length,orientation,perimeter,solidity,circularity,convexity,intensity
+Triángulo,2208.0,"(151, 1789, 174, 1885)","(162.0, 1836.5)",2208.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[ 151 1789]
+ [ 151 1790]
+ [ 151 1791]
+ ...
+ [ 173 1882]
+ [ 173 1883]
+ [ 173 1884]]",0.9709284814624761,53.02181546095191,1,1.0,2208.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",110.84523745595327,26.5329983228432,1.5707963267948966,234.0,1.0,0.5067307019596949,1.0,
+Círculo,3205.0,"(325, 1745, 388, 1808)","(356.0, 1776.0)",3261.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 325 1769]
+ [ 325 1770]
+ [ 325 1771]
+ ...
+ [ 387 1781]
+ [ 387 1782]
+ [ 387 1783]]",0.0,63.88061318487947,1,0.8075081884605694,3205.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",63.88179411494932,63.88179411494932,0.7853981633974483,208.16652224137044,0.9828273535725238,0.9294287973973785,1.0174726989079563,
+Círculo,1369.0,"(416, 1540, 457, 1581)","(436.0, 1560.0)",1393.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 416 1554]
+ [ 416 1555]
+ [ 416 1556]
+ ...
+ [ 456 1564]
+ [ 456 1565]
+ [ 456 1566]]",0.0,41.750029182533964,1,0.8143961927424153,1369.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",41.7487703374549,41.7487703374549,0.7853981633974483,134.22539674441617,0.9827709978463748,0.9548692756729444,1.0175310445580716,
+Triángulo,8289.0,"(591, 413, 760, 512)","(703.3006394016166, 462.0)",8457.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[591 462]
+ [592 462]
+ [593 462]
+ ...
+ [759 509]
+ [759 510]
+ [759 511]]",0.863100740603231,102.73209131673396,1,0.4954276492738031,8289.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",158.98152627712327,80.29072521127422,1.5078637119077063e-18,469.97160876900364,0.9801347995743172,0.4715945289386329,1.0202678248280854,
+Círculo,6073.0,"(680, 822, 767, 909)","(723.0, 865.0)",6145.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[680 856]
+ [680 857]
+ [680 858]
+ ...
+ [766 872]
+ [766 873]
+ [766 874]]",0.0,87.93397383933382,1,0.8023516977143612,6073.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",87.93494893684164,87.93494893684164,0.7853981633974483,287.76450198781714,0.9882831570382424,0.9215920222024857,1.0118557549810636,
+Círculo,5013.0,"(699, 2224, 778, 2303)","(738.0, 2263.0)",5077.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 699 2255]
+ [ 699 2256]
+ [ 699 2257]
+ ...
+ [ 777 2269]
+ [ 777 2270]
+ [ 777 2271]]",0.0,79.89211373945098,1,0.8032366607915398,5013.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",79.8924471518368,79.8924471518368,0.7853981633974483,260.45079348883235,0.9873941303919638,0.9286588435706352,1.0127668063036106,
+Círculo,1245.0,"(779, 1005, 818, 1044)","(798.0, 1024.0)",1269.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 779 1018]
+ [ 779 1019]
+ [ 779 1020]
+ ...
+ [ 817 1028]
+ [ 817 1029]
+ [ 817 1030]]",0.0,39.81435963562993,1,0.8185404339250493,1245.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39.81580078270273,39.81580078270273,0.7853981633974483,128.5685424949238,0.9810874704491725,0.9464763668432875,1.0192771084337349,
+Círculo,3841.0,"(834, 2401, 903, 2470)","(868.0, 2435.0)",3889.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[ 834 2427]
+ [ 834 2428]
+ [ 834 2429]
+ ...
+ [ 902 2441]
+ [ 902 2442]
+ [ 902 2443]]",0.0,69.9322035354797,1,0.8067632850241546,3841.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",69.93319235432085,69.93319235432085,0.7853981633974483,227.4802307403552,0.9876574955001286,0.932753421944147,1.0124967456391565,
+Círculo,1245.0,"(941, 355, 980, 394)","(960.0, 374.0)",1269.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[941 368]
+ [941 369]
+ [941 370]
+ ...
+ [979 378]
+ [979 379]
+ [979 380]]",0.0,39.81435963562993,1,0.8185404339250493,1245.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",39.81580078270273,39.81580078270273,0.7853981633974483,128.5685424949238,0.9810874704491725,0.9464763668432875,1.0192771084337349,
+Rectángulo,1.0,"(963, 580, 964, 581)","(963.0, 580.0)",1.0,[[ True]],[[963 580]],0.0,1.1283791670955126,1,1.0,1.0,[[ True]],0.0,0.0,0.7853981633974483,0.0,1.0,0.0,1.0,
+Triángulo,4015.0,"(965, 581, 1094, 656)","(1048.3798256537982, 608.66500622665)",4165.0,"[[ True False False ... False False False]
+ [ True  True False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[ 965  581]
+ [ 966  581]
+ [ 967  581]
+ ...
+ [1092  653]
+ [1092  654]
+ [1093  655]]",0.9283932236788672,71.49864874325723,1,0.41498708010335916,4015.0,"[[ True False False ... False False False]
+ [ True False False ... False False False]
+ [ True  True False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",128.99881403556168,47.93586595314159,0.3899820035063171,345.79393923934,0.963985594237695,0.42194967767163727,1.037359900373599,
+Triángulo,3981.0,"(1083, 121, 1200, 190)","(1160.6518462697816, 155.0)",4097.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1083  155]
+ [1084  155]
+ [1085  155]
+ ...
+ [1199  187]
+ [1199  188]
+ [1199  189]]",0.8616419012315749,71.19527110413081,1,0.493125232255667,3981.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",109.93103652508329,55.7918404872841,-1.935206533903744e-18,323.5452018978108,0.9716865999511838,0.4778945900539723,1.0291384074353178,
+Triángulo,2136.0,"(1270, 458, 1359, 482)","(1314.0, 469.5)",2136.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1270  458]
+ [1270  459]
+ [1270  460]
+ ...
+ [1358  479]
+ [1358  480]
+ [1358  481]]",0.963015570953549,52.150164597576364,1,1.0,2136.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",102.76186062932103,27.688746209726915,0.0,222.0,1.0,0.5446345189568864,1.0,
+Triángulo,8654.0,"(1317, 1446, 1551, 1538)","(1444.5753408828286, 1488.4996533394963)",12456.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]
+ [ True  True  True ... False False False]]","[[1317 1495]
+ [1318 1495]
+ [1319 1495]
+ ...
+ [1550 1498]
+ [1550 1499]
+ [1550 1500]]",0.9594143339586825,104.96959093060285,1,0.4019881085098476,8654.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ... False False False]
+ [False  True  True ... False False False]
+ [ True  True  True ... False False False]]",232.30976510256374,65.51140969226029,-0.15879383278229153,652.1259377015543,0.6947655748233783,0.2557194763680362,1.4393344118326785,
+Círculo,2109.0,"(1526, 1085, 1577, 1136)","(1551.0, 1110.0)",2133.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1526 1103]
+ [1526 1104]
+ [1526 1105]
+ ...
+ [1576 1115]
+ [1576 1116]
+ [1576 1117]]",0.0,51.819515627285234,1,0.8108419838523645,2109.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",51.82031178152238,51.82031178152238,0.7853981633974483,167.1959594928933,0.9887482419127989,0.9480579576403891,1.0113798008534851,
+Triángulo,7317.0,"(1562, 909, 1721, 1002)","(1667.6521798551319, 955.0)",7473.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1562  955]
+ [1563  955]
+ [1564  955]
+ ...
+ [1720  999]
+ [1720 1000]
+ [1720 1001]]",0.8636354370725828,96.52094979240096,1,0.49482653682288497,7317.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",149.5149557232508,75.37301345692795,7.34299389947799e-18,441.4863273947651,0.979124849458049,0.4717461913485404,1.021320213202132,
+Triángulo,6977.0,"(1657, 1853, 1812, 1944)","(1759.985667192203, 1898.0)",7131.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1657 1898]
+ [1658 1898]
+ [1659 1898]
+ ...
+ [1811 1941]
+ [1811 1942]
+ [1811 1943]]",0.8626154093307734,94.25174960507222,1,0.49464728819567527,6977.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",145.7598462842464,73.73412136572887,-3.1127065486521546e-18,430.6579002700189,0.9784041508904782,0.4727306376144978,1.022072524007453,
+Triángulo,3555.0,"(1807, 2037, 1918, 2102)","(1880.6413502109704, 2069.0)",3663.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1807 2069]
+ [1808 2069]
+ [1809 2069]
+ ...
+ [1917 2099]
+ [1917 2100]
+ [1917 2101]]",0.8640322038530825,67.27827718910096,1,0.49272349272349275,3555.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",104.30740506917755,52.51215919739383,2.0158137375645884e-18,305.8883476483185,0.9705159705159705,0.47744527755965144,1.030379746835443,
+Triángulo,5057.0,"(1812, 2643, 1945, 2720)","(1900.2879177377893, 2681.0)",5189.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1812 2681]
+ [1813 2681]
+ [1814 2681]
+ ...
+ [1944 2717]
+ [1944 2718]
+ [1944 2719]]",0.8673064717857931,80.241961452383,1,0.4937994336490577,5057.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",125.09817277401838,62.27068431750829,-7.302776505598277e-18,366.8589103967956,0.9745615725573328,0.47217683196891136,1.0261024322720982,
+Rectángulo,2256.0,"(1832, 11, 1879, 59)","(1855.0, 34.5)",2256.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1832   11]
+ [1832   12]
+ [1832   13]
+ ...
+ [1878   56]
+ [1878   57]
+ [1878   58]]",0.2031022963196123,53.595040935916145,1,1.0,2256.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",55.41359640617694,54.258639865002145,1.5707963267948966,186.0,1.0,0.8194511534857871,1.0,
+Triángulo,7178.0,"(1873, 1924, 1947, 2021)","(1909.5, 1972.0)",7178.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1873 1924]
+ [1873 1925]
+ [1873 1926]
+ ...
+ [1946 2018]
+ [1946 2019]
+ [1946 2020]]",0.6465666782225598,95.59975654837724,1,1.0,7178.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",112.0,85.44003745317531,1.5707963267948966,338.0,1.0,0.7895505082968921,1.0,
+Triángulo,3950.0,"(1886, 697, 1965, 747)","(1925.0, 721.5)",3950.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[1886  697]
+ [1886  698]
+ [1886  699]
+ ...
+ [1964  744]
+ [1964  745]
+ [1964  746]]",0.7742862718460342,70.91753098990328,1,1.0,3950.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",91.21403400793103,57.723478758647246,0.0,254.0,1.0,0.7693775796192996,1.0,
+Círculo,1789.0,"(1899, 2531, 1946, 2578)","(1922.0, 2554.0)",1813.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[1899 2548]
+ [1899 2549]
+ [1899 2550]
+ ...
+ [1945 2558]
+ [1945 2559]
+ [1945 2560]]",0.0,47.72657064498984,1,0.80986871887732,1789.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47.725318029270056,47.725318029270056,0.7853981633974483,153.53910524340094,0.9867622724765582,0.9536350258112931,1.0134153158188932,
+Triángulo,6644.0,"(2194, 1434, 2346, 1527)","(2292.2751354605657, 1466.3255568934376)",6837.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True  True False]
+ [False False False ...  True  True False]
+ [False False False ...  True  True  True]]","[[2194 1439]
+ [2195 1439]
+ [2196 1439]
+ ...
+ [2344 1524]
+ [2344 1525]
+ [2345 1526]]",0.8824859255559876,91.97501582071308,1,0.4700056593095642,6644.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ...  True False False]
+ [False False False ...  True  True False]
+ [False False False ... False False  True]]",147.5284318053991,69.38834627288657,0.3793164245402725,421.14318164425754,0.9717712446979669,0.47073873960105345,1.0290487658037326,
+Triángulo,2610.0,"(2255, 374, 2284, 464)","(2269.0, 418.5)",2610.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2255  374]
+ [2255  375]
+ [2255  376]
+ ...
+ [2283  461]
+ [2283  462]
+ [2283  463]]",0.9467224998853201,57.64681441119513,1,1.0,2610.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",103.9166332531355,33.46640106136302,1.5707963267948966,234.0,1.0,0.598988737370835,1.0,
+Triángulo,2177.0,"(2281, 2482, 2368, 2533)","(2338.6357372531006, 2507.0)",2263.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2281 2507]
+ [2282 2507]
+ [2283 2507]
+ ...
+ [2367 2530]
+ [2367 2531]
+ [2367 2532]]",0.8645752379679466,52.648290465013666,1,0.4906468334460221,2177.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",81.73920861058353,41.07422949846987,1.8591613019775566e-17,238.0893577750951,0.9619973486522315,0.4826011205543841,1.0395039044556729,
+Triángulo,7409.0,"(2374, 715, 2535, 808)","(2480.95532460521, 761.0)",7569.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2374  761]
+ [2375  761]
+ [2376  761]
+ ...
+ [2534  805]
+ [2534  806]
+ [2534  807]]",0.8676047113272142,97.12585539877021,1,0.494824016563147,7409.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",151.48668546267416,75.32744016626988,5.635351837884256e-18,445.4863273947651,0.9788611441405733,0.4691380948580511,1.0215953569982454,
+Círculo,2997.0,"(2393, 2616, 2454, 2677)","(2423.0, 2646.0)",3029.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2393 2639]
+ [2393 2640]
+ [2393 2641]
+ ...
+ [2453 2651]
+ [2453 2652]
+ [2453 2653]]",0.0,61.77296265819928,1,0.805428648212846,2997.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",61.772635731299815,61.772635731299815,0.7853981633974483,200.16652224137047,0.9894354572466161,0.9399694085278546,1.0106773440106773,
+Triángulo,7125.0,"(2419, 348, 2494, 443)","(2456.0, 395.0)",7125.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2419  348]
+ [2419  349]
+ [2419  350]
+ ...
+ [2493  440]
+ [2493  441]
+ [2493  442]]",0.6138184174863035,95.2461639974967,1,1.0,7125.0,"[[ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ ...
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]",109.6904736064167,86.59484203269076,1.5707963267948966,336.0,1.0,0.7930785025803314,1.0,
+Triángulo,2369.0,"(2534, 2866, 2625, 2919)","(2594.285774588434, 2892.0)",2457.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]
+ [ True  True  True ...  True  True  True]]","[[2534 2892]
+ [2535 2892]
+ [2536 2892]
+ ...
+ [2624 2916]
+ [2624 2917]
+ [2624 2918]]",0.8664972483481981,54.9208929413716,1,0.49118805722579306,2369.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False  True  True ...  True  True False]
+ [False  True  True ...  True  True False]
+ [ True  True  True ...  True  True  True]]",85.52715507261753,42.69360342890016,-1.1638765618912947e-17,248.9177848998413,0.9641839641839642,0.48046645269204535,1.0371464753060362,
+Círculo,1789.0,"(2567, 464, 2614, 511)","(2590.0, 487.0)",1813.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2567  481]
+ [2567  482]
+ [2567  483]
+ ...
+ [2613  491]
+ [2613  492]
+ [2613  493]]",0.0,47.72657064498984,1,0.80986871887732,1789.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",47.725318029270056,47.725318029270056,0.7853981633974483,153.53910524340094,0.9867622724765582,0.9536350258112931,1.0134153158188932,
+Círculo,3205.0,"(2619, 1823, 2682, 1886)","(2650.0, 1854.0)",3261.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2619 1847]
+ [2619 1848]
+ [2619 1849]
+ ...
+ [2681 1859]
+ [2681 1860]
+ [2681 1861]]",0.0,63.88061318487947,1,0.8075081884605694,3205.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",63.88179411494932,63.88179411494932,0.7853981633974483,208.16652224137044,0.9828273535725238,0.9294287973973785,1.0174726989079563,
+Círculo,2285.0,"(2693, 2556, 2746, 2609)","(2719.0, 2582.0)",2325.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]","[[2693 2575]
+ [2693 2576]
+ [2693 2577]
+ ...
+ [2745 2587]
+ [2745 2588]
+ [2745 2589]]",0.0,53.93841265480332,1,0.8134567461730153,2285.0,"[[False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]
+ ...
+ [False False False ... False False False]
+ [False False False ... False False False]
+ [False False False ... False False False]]",53.94062705665156,53.94062705665156,0.7853981633974483,175.19595949289334,0.9827956989247312,0.9355088420166093,1.0175054704595186,
